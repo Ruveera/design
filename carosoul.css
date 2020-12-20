@@ -1,0 +1,31 @@
+/*.carousel-item {
+	height: 32rem;
+}*/
+
+
+/*.carousel-inner img {
+  height: 30rem;
+  width: %;
+
+}
+*/
+
+.carousel {
+	position: absolute !important;
+	width: 100% !important;
+	height: 100vh !important;
+	perspective: 600px !important;
+	/*padding-top: 0px !important;*/
+
+}
+
+.carousel-item {
+	height: 100vh !important;
+	width:100% !important;
+
+	
+}
+
+.carousel-item img {
+	width: 100% !important
+}
